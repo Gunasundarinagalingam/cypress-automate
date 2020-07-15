@@ -1,0 +1,28 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "cy-run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvsp/cypress-automate.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvsp/cypress-automate/issues"
+  },
+  "homepage": "https://github.com/rvsp/cypress-automate#readme",
+  "dependencies": {
+    "cypress": "^4.10.0",
+    "cypress-multi-reporters": "^1.4.0",
+    "mochawesome": "^6.1.1"
+  }
+}

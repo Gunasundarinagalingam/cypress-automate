@@ -1,0 +1,12 @@
+{
+    "reported": "mochawesome",
+    "baseUrl": "https://cypress-restful-countries.netlify.app/",
+    "reporterOptions": {
+        "reportDir": "cypress/results",
+        "overwrite": false,
+        "html": true,
+        "json": false,
+        "timestamp": "mmddyyyy_HHMMss",
+        "video": false
+    }
+}
