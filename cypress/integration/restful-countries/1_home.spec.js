@@ -1,6 +1,4 @@
 /// <reference types="cypress" />
-// https://new-york-times-api.netlify.app/#
-// https://newyork-times-api.netlify.app/
 
 context("Window", () => {
   beforeEach(() => {
