@@ -1,6 +1,6 @@
 {
     "reported": "mochawesome",
-    "baseUrl": "https://cypress-restful-countries.netlify.app/",
+    "baseUrl": "https://reactiveforms-angular.vercel.app/",
     "reporterOptions": {
         "reportDir": "cypress/results",
         "overwrite": false,
